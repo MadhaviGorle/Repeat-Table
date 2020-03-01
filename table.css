@@ -1,0 +1,82 @@
+
+  body {
+    background: white;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: roboto;
+  }
+  
+ 
+  table, td {
+      border: 1px solid black;
+      text-align: left;
+      padding-left: 10px;
+  }
+
+
+  table, th {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+  
+  .mainDiv{
+    border: 1px black solid;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 370px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .addButton{
+    float: left;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #3faaf8;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+  }
+  
+  .mainTable{
+    margin-top: 30px;
+    width: 95%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .head{
+    background-color: #3faaf8;
+    padding-left: 10px;
+    color: white;
+  }
+  
+  .action{
+    background-color: #3faaf8;
+    width: 15%;
+    text-align: center;
+    color: white;
+    
+  }
+  
+  .totalDiv{
+    border: 1px solid black;
+    width: 98%;
+    height: 95%;
+  }
+  
+  input[type="button"]{
+   background-color: #3faaf8;
+   border-radius: 10px;
+   color: white;
+  }
+
+
+  
+  
+  
+  
